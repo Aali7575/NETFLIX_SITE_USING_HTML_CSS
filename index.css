@@ -11,6 +11,8 @@
 *{
     margin: 0px;
     padding: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+    box-sizing: border-box;
 }
 
 .background-image {
@@ -96,3 +98,29 @@
     border: 1px solid black;
 } */
 
+.second{
+    background-color: black;
+}
+
+.bird{
+    position: relative;
+    left: 50%;
+}
+
+.enjoy{
+    color: white;
+    position: relative;
+    top :300px;
+    left: 100px;
+}
+
+
+.on{
+    font-weight: bolder;
+    font-size: 50px;
+    margin-bottom: 1rem;
+}
+
+on2{
+    font-size: 30;
+}
