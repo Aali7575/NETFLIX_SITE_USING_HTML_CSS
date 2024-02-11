@@ -52,8 +52,10 @@
 
 
 .logo{
-    width: 70px;
-    height: 20px;
+    position: relative;
+    left : 100px;
+    width:30px;
+    height:10px;
 }
 
 .first-content{
@@ -123,4 +125,64 @@
 
 on2{
     font-size: 30;
+}
+
+.third{
+    background-color: black;
+}
+
+/* .stranger{
+    height: 200px;
+
+} */
+
+.third-text{
+    color: white;
+    position: relative;
+    left: 50%;
+    bottom : 200px;
+}
+
+.Download{
+    font-size: 54px;
+    font-weight: bolder;
+    margin-bottom: 1rem;
+}
+
+.save{
+    font-size: 25px;
+}
+
+.fourth{
+    color: white;
+    position: relative;
+    bottom : 80px;
+    left : 240px;
+}
+.watch{
+    font-size: 54px;
+    font-weight: bolder;
+}
+
+.stream{
+    font-size: 25px;
+}
+
+.my{
+    background-color: black;
+}
+
+.sign{
+    color: white;
+    background-color: red;
+}
+
+.please{
+    background-color: black;
+}
+
+.kids-text{
+    color: white;
+    position: relative;
+    left: 50%;
 }
